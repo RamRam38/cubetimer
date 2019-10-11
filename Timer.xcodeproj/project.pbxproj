@@ -418,7 +418,7 @@
 				DEVELOPMENT_TEAM = 29R436S6JJ;
 				INFOPLIST_FILE = Timer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Timer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Timer2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -431,7 +431,7 @@
 				DEVELOPMENT_TEAM = 29R436S6JJ;
 				INFOPLIST_FILE = Timer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Timer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Timer2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -514,6 +514,7 @@
 				1EDCCF9A1F278ECB00623CB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1EDCCF9B1F278ECB00623CB3 /* Build configuration list for PBXNativeTarget "TimerTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +523,7 @@
 				1EDCCF9D1F278ECB00623CB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1EDCCF9E1F278ECB00623CB3 /* Build configuration list for PBXNativeTarget "TimerUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +532,7 @@
 				1EDCCFA01F278ECB00623CB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
